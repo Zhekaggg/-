@@ -7,6 +7,6 @@ py -m venv venv
  .\venv\Scripts\pip.exe install pyvis flask
 # запуск
 и перва запускаешь Drevo.py 
-.\venv\Scripts\python.exe .\Drevo.py
+# .\venv\Scripts\python.exe .\Drevo.py
 а потом же server.py
-.\venv\Scripts\python.exe .\server.py
+# .\venv\Scripts\python.exe .\server.py
