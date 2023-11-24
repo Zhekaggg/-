@@ -6,7 +6,5 @@ py -m venv venv
 # установка библеотеки pyvis и flask
  .\venv\Scripts\pip.exe install pyvis flask
 # запуск
-и перва запускаешь Drevo.py 
-# .\venv\Scripts\python.exe .\Drevo.py
-а потом же server.py
+и перва запускаешь server.py
 # .\venv\Scripts\python.exe .\server.py
